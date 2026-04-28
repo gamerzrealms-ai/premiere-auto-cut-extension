@@ -151,4 +151,4 @@ Pair this with the OBS notification overlay for a smoother workflow:
 * Get visual feedback while capturing
 * Combine recording + auto-editing workflow
 
-➡️ https://github.com/gamerzrealms-ai/obs-shadowplay-overlay
+➡️ https://github.com/gamerz-workflows/obs-shadowplay-overlay
