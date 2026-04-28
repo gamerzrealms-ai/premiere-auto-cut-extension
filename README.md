@@ -138,3 +138,17 @@ Feel free to fork, improve, or suggest features.
 ---
 
 Make editing less clicking, more creating 🎬
+
+------------------------------------------------------------------------------------
+
+## 🔗 Works with OBS Overlay
+
+Pair this with the OBS notification overlay for a smoother workflow:
+
+👉 **OBS Notification Overlay**
+
+* See recording status live
+* Get visual feedback while capturing
+* Combine recording + auto-editing workflow
+
+➡️ https://github.com/gamerzrealms-ai/obs-shadowplay-overlay
